@@ -1,1 +1,9 @@
-# Prediction-meteo
+# Prédiction Méteo
+
+La météo, un élément omniprésent de notre quotidien, est un sujet d'intérêt constant pour les individus et les industries. Dans le cadre de ce projet, nous nous plongeons dans l'univers fascinant de la prédiction météorologique en utilisant des données de relevés météorologiques de la ville de Seattle. L'objectif principal de ce projet est de développer un modèle de prédiction météorologique précis à partir de ces relevés. Bien que d'autres prédictions météorologiques telles que la température puissent être extrêmement utiles, notre principal objectif est de comprendre et de maîtriser le processus de prédiction du temps en utilisant des caractéristiques diverses.
+
+Dans cette aventure analytique, nous explorerons en profondeur le jeu de données, en extrayant des informations précieuses et en mettant en évidence les tendances météorologiques passées. Nous utiliserons ensuite ces données pour former des modèles prédictifs. La prédiction du temps est un défi complexe qui nécessite la prise en compte de multiples facteurs, notamment les précipitations, les températures maximales et minimales, la vitesse du vent, entre autres. Notre modèle sera conçu pour capturer ces nuances et fournir des prévisions fiables.
+
+Nous sommes conscients que la prédiction météorologique est un domaine en constante évolution, où les modèles et les données sont essentiels. Ce projet servira également de tremplin pour explorer d'autres applications de l'apprentissage automatique dans le domaine de la météorologie. Nous sommes impatients de découvrir les informations que nous pouvons extraire de ces données et de développer un modèle robuste qui peut contribuer à améliorer notre compréhension de la météo.
+
+Préparez-vous à vous immerger dans le monde dynamique de la météorologie prédictive à mesure que nous explorons, analysons et modelons les données pour créer un outil de prédiction météorologique précis pour la ville de Seattle.
